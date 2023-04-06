@@ -11,6 +11,8 @@ profile
 MVC Architecture Pattern,
 Core data integration,
 User defaults,
+Segmented Control,
+UIKit,
 Image Picker,
 Storyboards,
 Xib Files
